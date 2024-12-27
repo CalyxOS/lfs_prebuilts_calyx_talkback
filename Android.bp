@@ -1,0 +1,17 @@
+//
+// SPDX-FileCopyrightText: 2024 The Calyx Institute
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app_import {
+    name: "Talkback",
+    apk: "talkback-phone-release-unsigned.apk",
+    certificate: "testkey",
+    product_specific: true,
+    optional_uses_libs: [
+        "com.google.android.wearable",
+        "wear-sdk",
+        "androidx.window.extensions",
+        "androidx.window.sidecar"
+    ],
+}
