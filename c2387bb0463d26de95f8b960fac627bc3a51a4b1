@@ -16,6 +16,24 @@
       "message": "```suggestion\n    default_dev_cert: true,\n```\n\ntestkey is implied. The above is what we use in Lupin.",
       "revId": "c2387bb0463d26de95f8b960fac627bc3a51a4b1",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf5298b9_0543c74b",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-12-27T16:32:45Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "949943ca_2992616f",
+      "revId": "c2387bb0463d26de95f8b960fac627bc3a51a4b1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
