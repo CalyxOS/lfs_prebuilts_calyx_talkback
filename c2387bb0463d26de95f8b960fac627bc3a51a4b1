@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "949943ca_2992616f",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-12-27T08:05:27Z",
+      "side": 1,
+      "message": "```suggestion\n    default_dev_cert: true,\n```\n\ntestkey is implied. The above is what we use in Lupin.",
+      "revId": "c2387bb0463d26de95f8b960fac627bc3a51a4b1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
